@@ -1,0 +1,8 @@
+.search-field  {
+    margin: 20px;
+    text-align: center;
+}
+.search-field input {
+    width: 50%;
+    padding: 14px;
+}
