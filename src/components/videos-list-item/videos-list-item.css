@@ -1,0 +1,9 @@
+.list-group-item{
+    cursor: pointer;
+}
+.list-group-item:hover{
+    background: #eee;
+}
+.media-left {
+    margin-right: 5%;
+}

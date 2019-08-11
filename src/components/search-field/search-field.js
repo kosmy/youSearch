@@ -16,7 +16,7 @@ class SearchField extends React.Component {
   render() {
     return (
       <div className="search-field">
-        <input  type="text" placeholder= "Search" value={this.state.term} onChange={(event) => this.onInpChange(event.target.value)} />
+        <input type="text" placeholder= "Search" value={this.state.term} onChange={(event) => this.onInpChange(event.target.value)} />
       </div>
     );
   }
